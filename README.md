@@ -31,7 +31,7 @@ ng serve
 
 1. Open the backend project in Eclipse IDE or STS.
 2. Change the configuration in application.properties acording to your oracle id and password. Try not to change the port number.
-3. Open the package com.vatiwala.app and choose the java file in it. And run the java file as Spring Boot App.
+3. Open the package com.grocery and choose the java file in it. And run the java file as Spring Boot App.
 
 > Note: Try using the default port in both frontend as well as backend 
 
@@ -39,36 +39,36 @@ ng serve
 # Images of Application:
 1.
 
-![Home Page](https://github.com/SRISORA/Team-2-E-Grocery--System-ShopOn/blob/main/Images/1.png)
+![Home Page](https://github.com/SRISORA/-Team-2-E-Grocery--System-ShopOn/blob/main/Images/1.png)
 
 2.
 
-![Category Page](https://github.com/SRISORA/Team-2-E-Grocery--System-ShopOn/blob/main/Images/2.png)
+![Category Page](https://github.com/SRISORA/-Team-2-E-Grocery--System-ShopOn/blob/main/Images/2.png)
 
 3.
 
-![Category Page](https://github.com/SRISORA/Team-2-E-Grocery--System-ShopOn/blob/main/Images/3.png)
+![Category Page](https://github.com/SRISORA/-Team-2-E-Grocery--System-ShopOn/blob/main/Images/3.png)
 
 4.
 
-![Category Page](https://github.com/SRISORA/Team-2-E-Grocery--System-ShopOn/blob/main/Images/4.png)
+![Category Page](https://github.com/SRISORA/-Team-2-E-Grocery--System-ShopOn/blob/main/Images/4.png)
 
 5.
 
-![Category Page](https://github.com/SRISORA/Team-2-E-Grocery--System-ShopOn/blob/main/Images/5.png)
+![Category Page](https://github.com/SRISORA/-Team-2-E-Grocery--System-ShopOn/blob/main/Images/5.png)
 
 6.
 
-![Cart](https://github.com/SRISORA/Team-2-E-Grocery--System-ShopOn/blob/main/Images/6.png)
+![Cart](https://github.com/SRISORA/-Team-2-E-Grocery--System-ShopOn/blob/main/Images/6.png)
 
 7.
 
-![Sign up](https://github.com/SRISORA/Team-2-E-Grocery--System-ShopOn/blob/main/Images/7.png)
+![Sign up](https://github.com/SRISORA/-Team-2-E-Grocery--System-ShopOn/blob/main/Images/7.png)
 
 8.
 
-![Sign in](https://github.com/SRISORA/Team-2-E-Grocery--System-ShopOn/blob/main/Images/8.png)
+![Sign in](https://github.com/SRISORA/-Team-2-E-Grocery--System-ShopOn/blob/main/Images/8.png)
 
 9.
 
-![Sign in](https://github.com/SRISORA/Team-2-E-Grocery--System-ShopOn/blob/main/Images/9.png)
+![Sign in](https://github.com/SRISORA/-Team-2-E-Grocery--System-ShopOn/blob/main/Images/9.png)
